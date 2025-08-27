@@ -43,36 +43,6 @@ I love bridging the gap between **beautiful design** and **robust engineering** 
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 📈 Contribution Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 📊 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/khesa-alvandi-sembodo-247a88182)
 - ✉️ Reach me at: **vandikalvandi@gmail.com*
